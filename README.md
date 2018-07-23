@@ -26,4 +26,4 @@ $ react-native run-android
 $ react-native run-ios
 ```
 
-![](screen/bestCrud.gif)
+![](screens/bestCrud.gif)
