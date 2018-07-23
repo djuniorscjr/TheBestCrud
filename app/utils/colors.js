@@ -1,0 +1,12 @@
+export const primary = '#e7ecf1';
+export const black = '#000000';
+export const white = '#FFFFFF';
+export const gray = '#B5B5B5';
+export const grayLight = '#E7ECF1';
+export const error = '#e44f5e';
+export const errorLight = '#fcd9da';
+export const success = '#32d679';
+export const successLight = '#d7f4df';
+export const info = '#5bc0de';
+export const warning = '#ffc107';
+export const transparent = (value = 20) => `rgba(0, 0, 0, .${value})`;
